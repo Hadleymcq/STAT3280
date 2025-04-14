@@ -1,0 +1,312 @@
+Name,Sex,Event,Equipment,Age,AgeClass,BirthYearClass,Division,BodyweightKg,WeightClassKg,Squat1Kg,Squat2Kg,Squat3Kg,Squat4Kg,Best3SquatKg,Bench1Kg,Bench2Kg,Bench3Kg,Bench4Kg,Best3BenchKg,Deadlift1Kg,Deadlift2Kg,Deadlift3Kg,Deadlift4Kg,Best3DeadliftKg,TotalKg,Place,Dots,Wilks,Glossbrenner,Goodlift,Tested,Country,State,Federation,ParentFederation,Date,MeetCountry,MeetState,MeetTown,MeetName,Sanctioned
+Shelly White,F,SBD,Single-ply,,,,F-O,72.3,84,,,,,142.5,,,,,82.5,,,,,137.5,362.5,2,360.09,352.84,310.76,60.88,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Meghali Chopra,F,SBD,Single-ply,24.5,24-34,24-39,F-O,62.1,63,,,,,112.5,,,,,72.5,,,,,142.5,327.5,2,355.35,355.59,314.05,59.61,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Hannah Malcomb,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,73.3,84,,,,,165,,,,,72.5,,,,,142.5,380,6,374.67,366.56,322.71,63.40,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Sarah Newby,F,SBD,Single-ply,22.5,20-23,19-23,F-Jr,64.8,72,,,,,,,,,,,,,,,,,DQ,,,,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Andrea Smith #1,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,69,72,,,,,95,,,,,35,,,,,115,245,16,249.78,246.19,217.08,42.12,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Sara Hynes,F,SBD,Single-ply,23.5,24-34,24-39,F-Jr,71,72,,,,,112.5,,,,,60,,,,,112.5,285,15,285.94,280.80,247.43,48.29,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alexandria Rosales,F,BD,Single-ply,23.5,24-34,24-39,F-Jr,61,63,,,,,,,,,,67.5,,,,,130,197.5,13,216.68,217.40,192.04,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Haley Nelson,F,SBD,Single-ply,19.5,20-23,19-23,F-Jr,60.1,63,,,,,97.5,,,,,47.5,,,,,110,255,11,282.38,283.93,250.86,47.32,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Samantha Neal #1,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,62,63,,,,,117.5,,,,,65,,,,,125,307.5,9,333.98,334.28,295.24,56.02,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jess De St Croix,F,SBD,Single-ply,,,,F-Jr,61,63,,,,,142.5,,,,,72.5,,,,,152.5,367.5,4,403.19,404.52,357.34,67.59,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Brooke LeBlanc,F,B,Single-ply,20.5,20-23,19-23,F-Jr,56.6,57,,,,,,,,,,60,,,,,,60,9,69.06,70.01,61.91,38.94,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Carol J. Champion,F,SBD,Single-ply,,,,F-Jr,56.1,57,,,,,105,,,,,52.5,,,,,120,277.5,7,321.28,326.05,288.40,53.73,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Wendolyn Zamora,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,54.3,57,,,,,117.5,,,,,65,,,,,140,322.5,5,381.61,388.73,344.10,63.79,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Penrisa Buraparate,F,SBD,Single-ply,,,,F-Jr,56.3,57,,,,,135,,,,,67.5,,,,,130,332.5,3,384.05,389.59,344.57,64.24,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alexandra Trevino,F,SBD,Single-ply,,,,F-Jr,49.4,52,,,,,120,,,,,57.5,,,,,125,302.5,2,382.32,392.16,348.44,63.88,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alexandra Marie Garcia,F,SBD,Single-ply,,,,F-T3,108.9,84+,,,,,137.5,,,,,90,,,,,162.5,390,4,322.58,317.78,270.60,56.38,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ambler Flores,F,SBD,Single-ply,,,,F-T3,67.5,72,,,,,150,,,,,65,,,,,142.5,357.5,3,369.08,364.87,321.87,62.16,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Delaney Smallwood,F,BD,Single-ply,19.5,20-23,19-23,F-T3,62,63,,,,,,,,,,67.5,,,,,125,192.5,6,209.08,209.27,184.82,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jamie Nicole Roberie,F,SBD,Single-ply,,,,F-T3,56,57,,,,,87.5,,,,,50,,,,,97.5,235,2,272.39,276.50,244.58,45.55,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Lauren Lumague,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,56.7,57,,,,,110,,,,,60,,,,,127.5,297.5,1,342.03,346.65,306.55,57.22,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Gabrielle Hurley,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,50.6,52,,,,,120,,,,,67.5,,,,,135,322.5,2,400.69,410.56,364.34,66.94,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ashley Guzman,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,46.7,47,,,,,110,,,,,57.5,,,,,115,282.5,1,371.99,381.69,340.42,62.20,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Cheng Yuan,M,SBD,Single-ply,,,,M-O,58.8,59,,,,,157.5,,,,,100,,,,,185,442.5,1,379.80,384.49,375.89,64.59,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Clayton Berry,M,BD,Single-ply,23.5,24-34,24-39,M-Jr,182.9,120+,,,,,,,,,,185,,,,,252.5,437.5,12,223.49,234.86,219.81,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Andrew Davis #3,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,116.3,120,,,,,277.5,,,,,210,,,,,292.5,780,5,452.76,451.89,432.72,76.32,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ethan Albrecht,M,SBD,Single-ply,,,,M-Jr,96.9,105,,,,,207.5,,,,,135,,,,,250,592.5,19,369.82,365.34,349.18,62.92,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+John Villani,M,SBD,Single-ply,,,,M-Jr,103.4,105,,,,,250,,,,,142.5,,,,,245,637.5,19,386.89,383.04,365.75,65.62,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Paul Alabi,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,99.2,105,,,,,260,,,,,165,,,,,265,690,11,426.19,421.29,402.44,72.44,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Kevin Maradiaga,M,SBD,Single-ply,,,,M-Jr,90.7,93,,,,,,,,,,,,,,,,,DQ,,,,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Leonard Bradley,M,BD,Single-ply,24.5,24-34,24-39,M-Jr,92.1,93,,,,,,,,,,165,,,,,230,395,23,252.51,249.29,238.69,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Kornelijus Barsauskas,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,89.2,93,,,,,227.5,,,,,152.5,,,,,222.5,602.5,8,391.34,386.40,370.47,66.81,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Hunter Scothom,M,SBD,Single-ply,,,,M-Jr,85.3,93,,,,,212.5,,,,,150,,,,,262.5,625,7,415.61,410.64,394.51,71.05,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Justin Fratantuono,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,87.3,93,,,,,245,,,,,147.5,,,,,237.5,630,6,413.79,408.66,392.20,70.69,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Christopher Robinson #1,M,SBD,Single-ply,23.5,24-34,24-39,M-Jr,92.1,93,,,,,207.5,,,,,210,,,,,227.5,645,16,412.32,407.08,389.76,70.31,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Christian Baldoni,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,86.3,93,,,,,262.5,,,,,197.5,,,,,260,720,3,475.79,469.99,451.29,81.31,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Kyle B. Holzem,M,SBD,Single-ply,,,,M-Jr,91.3,93,,,,,290,,,,,172.5,,,,,270,732.5,10,470.26,464.28,444.69,80.21,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Connor Seft,M,SBD,Single-ply,,,,M-Jr,92.4,93,,,,,287.5,,,,,212.5,,,,,235,735,9,469.11,463.15,443.39,79.98,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Bradley Anuszkiewicz,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,80,83,,,,,187.5,,,,,120,,,,,200,507.5,26,349.94,346.47,333.83,59.90,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+James Clayton Gant,M,SBD,Single-ply,,,,M-Jr,79,83,,,,,200,,,,,127.5,,,,,215,542.5,25,376.89,373.34,359.93,64.52,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Christian Johnston #2,M,SBD,Single-ply,20,20-23,19-23,M-Jr,77.2,83,,,,,202.5,,,,,132.5,,,,,212.5,547.5,24,385.72,382.52,369.14,66.05,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+William T Murray,M,SBD,Single-ply,,,,M-Jr,80.8,83,,,,,192.5,,,,,120,,,,,240,552.5,22,378.76,374.85,361.02,64.82,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ben Graveline,M,SBD,Single-ply,,,,M-Jr,82.2,83,,,,,175,,,,,150,,,,,235,560,21,380.13,375.97,361.82,65.04,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Anthony M. White,M,SBD,Single-ply,,,,M-Jr,75,83,,,,,227.5,,,,,165,,,,,200,592.5,11,425.07,422.19,407.94,72.80,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Christopher Aladesuru,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,81.3,83,,,,,210,,,,,165,,,,,257.5,632.5,14,432.06,427.50,411.61,73.94,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alexander Cervantes,M,SBD,Single-ply,,,,M-Jr,82.8,83,,,,,230,,,,,152.5,,,,,250,632.5,5,427.57,422.80,406.75,73.14,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jack Morrow,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,78.4,83,,,,,240,,,,,155,,,,,260,655,12,457.13,452.99,436.86,78.27,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Andrew Sandoval,M,SB,Single-ply,21.5,20-23,19-23,M-Jr,72.1,74,,,,,222.5,,,,,180,,,,,,402.5,29,296.31,295.02,285.54,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Adam Drescher,M,SBD,Single-ply,19.5,20-23,19-23,M-Jr,72.2,74,,,,,185,,,,,100,,,,,192.5,477.5,27,351.20,349.63,338.38,60.14,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Brendan Perry,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,70.8,74,,,,,182.5,,,,,145,,,,,190,517.5,22,385.69,384.48,372.42,66.03,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+TJ Binkowski,M,SBD,Single-ply,19.5,20-23,19-23,M-Jr,71.7,74,,,,,207.5,,,,,142.5,,,,,187.5,537.5,19,397.18,395.59,382.97,68.01,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Mario DaVila Jr,M,SBD,Single-ply,,,,M-Jr,73,74,,,,,237.5,,,,,135,,,,,200,572.5,15,418.00,415.84,402.27,71.58,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Brandon Zembles,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,73.8,74,,,,,227.5,,,,,132.5,,,,,215,575,14,416.83,414.40,400.69,71.38,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Casey Jensen #1,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,73.5,74,,,,,202.5,,,,,177.5,,,,,232.5,612.5,6,445.20,442.71,428.14,76.24,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Gustavo X. Maldonado,M,SBD,Single-ply,,,,M-Jr,66,66,,,,,195,,,,,105,,,,,210,510,4,399.60,400.45,389.12,68.31,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Dom Sentitos,M,SBD,Single-ply,,,,M-Jr,57.7,59,,,,,165,,,,,105,,,,,167.5,437.5,6,381.56,386.96,378.72,64.82,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Terry Arthur,M,SBD,Single-ply,19.5,20-23,19-23,M-Jr,58.1,59,,,,,170,,,,,100,,,,,180,450,5,390.16,395.43,386.85,66.31,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Sullivan Garth,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,57,59,,,,,195,,,,,132.5,,,,,200,527.5,1,464.90,472.04,462.32,78.91,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Oluwaseyi Alabi,M,SBD,Single-ply,,,,M-T3,113.8,120,,,,,290,,,,,187.5,,,,,292.5,770,1,450.39,448.68,429.33,76.01,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Matthew McGuire,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,91.4,93,,,,,232.5,,,,,152.5,,,,,212.5,597.5,8,383.38,378.51,362.52,65.39,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Austin M. Stephen,M,SB,Single-ply,,,,M-T3,81.4,83,,,,,272.5,,,,,155,,,,,,427.5,5,291.82,288.72,277.98,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jordan Michael Figlioli,M,SBD,Single-ply,,,,M-T3,82.2,83,,,,,190,,,,,140,,,,,220,550,4,373.34,369.26,355.36,63.87,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Cody W. Damewood,M,SBD,Single-ply,,,,M-T3,73.1,74,,,,,185,,,,,115,,,,,207.5,507.5,4,370.20,368.26,356.22,63.40,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Joseph Francisco,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,72.2,74,,,,,200,,,,,115,,,,,205,520,3,382.46,380.75,368.50,65.49,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jesse Rutledge,M,SB,Single-ply,,,,M-T3,64.6,66,,,,,217.5,,,,,125,,,,,,342.5,13,272.71,273.77,266.30,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Austin Robert Martin,M,SD,Single-ply,,,,M-T3,64.3,66,,,,,200,,,,,,,,,,207.5,407.5,12,325.61,327.01,318.16,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Aleil Riley,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,64.9,66,,,,,155,,,,,102.5,,,,,177.5,435,11,345.15,346.36,336.83,58.97,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Vincent E. Moon,M,SBD,Single-ply,,,,M-T3,63.5,66,,,,,165,,,,,140,,,,,180,485,8,391.28,393.38,382.98,66.80,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Leon Duncan,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,58.6,59,,,,,165,,,,,120,,,,,167.5,452.5,4,389.50,394.44,385.69,66.23,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Andrew Wing,M,SBD,Single-ply,24.5,24-34,24-39,M-O,101.8,105,,,,,227.5,,,,,170,,,,,247.5,645,3,393.99,389.81,372.24,66.88,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Nicholas Nero,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,98.7,105,,,,,247.5,,,,,192.5,,,,,227.5,667.5,12,413.21,408.40,390.16,70.25,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Clayton Barone,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,92.5,93,,,,,235,,,,,162.5,,,,,250,647.5,15,413.05,407.80,390.39,70.42,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Bryson Randall,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,89.1,93,,,,,250,,,,,145,,,,,255,650,3,422.44,417.10,399.93,72.12,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+James Haworth,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,81.8,83,,,,,237.5,,,,,142.5,,,,,230,610,3,415.22,410.75,395.37,71.05,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Teddy Perretti,M,SBD,Single-ply,20,20-23,19-23,M-Jr,64.1,66,,,,,160,,,,,105,,,,,202.5,467.5,7,374.45,376.15,366.03,63.95,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alex Sokolov,M,SBD,Single-ply,,,,M-O,104.6,105,,,,,287.5,,,,,175,,,,,210,672.5,2,406.21,402.40,384.24,68.86,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Morgan Derrick,F,SBD,Single-ply,,,,F-Jr,66.7,72,,,,,122.5,,,,,75,,,,,132.5,330,7,343.05,339.71,299.73,57.74,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Kaydee Walter,F,SBD,Single-ply,,,,F-T3,61.1,63,,,,,112.5,,,,,65,,,,,127.5,305,5,334.28,335.30,296.19,56.04,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Nareh Sahakian,F,D,Single-ply,20.5,20-23,19-23,F-Jr,82.5,84,,,,,,,,,,,,,,,137.5,137.5,4,127.62,123.75,108.32,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Helen Ramsay,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,68.7,72,,,,,107.5,,,,,72.5,,,,,127.5,307.5,14,314.27,309.94,273.32,52.98,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Tom Reilly,M,SBD,Single-ply,,,,M-Jr,82,83,,,,,267.5,,,,,172.5,,,,,245,685,9,465.62,460.57,443.28,79.67,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jason Chen,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,72.6,74,,,,,205,,,,,137.5,,,,,217.5,560,18,410.36,408.39,395.15,70.27,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Eric Jacques,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,91.1,93,,,,,195,,,,,132.5,,,,,247.5,575,9,369.55,364.84,349.49,63.04,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Henry Hsu,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,65.7,66,,,,,192.5,,,,,130,,,,,192.5,515,6,404.88,405.90,394.50,69.21,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Clarrissa Johnson,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,45.3,47,,,,,92.5,,,,,40,,,,,92.5,225,3,303.11,310.60,277.75,50.72,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Gabriel Emerson,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,103.2,105,,,,,235,,,,,147.5,,,,,262.5,645,18,391.75,387.82,370.31,66.45,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Loutori Williams,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,45.1,47,,,,,87.5,,,,,35,,,,,87.5,210,4,283.85,290.78,260.14,47.50,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Josh Benoit,M,SD,Single-ply,,,,M-T3,71.9,74,,,,,152.5,,,,,,,,,,197.5,350,6,258.14,257.06,248.83,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Simone Cavalier,F,SBD,Single-ply,24.5,24-34,24-39,F-O,70.9,72,,,,,100,,,,,62.5,,,,,112.5,275,3,276.12,271.20,238.99,46.63,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Richelle George,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,56.8,57,,,,,110,,,,,75,,,,,110,295,2,338.76,343.26,303.54,56.67,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jamie Reiss,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,72.4,74,,,,,182.5,,,,,122.5,,,,,192.5,497.5,24,365.23,363.54,351.80,62.54,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Greg LaBorde,M,SBD,Single-ply,,,,M-T3,72.7,74,,,,,200,,,,,92.5,,,,,185,477.5,5,349.59,347.87,336.58,59.86,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Tiffany Shetters,F,SBD,Single-ply,22.5,20-23,19-23,F-Jr,61.4,63,,,,,105,,,,,60,,,,,117.5,282.5,10,308.68,309.40,273.29,51.76,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jamar Jordan,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,135.6,120+,,,,,275,,,,,170,,,,,240,685,8,378.82,384.68,366.42,63.41,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Adam Alfred,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,117.9,120,,,,,192.5,,,,,152.5,,,,,245,590,7,340.86,340.64,326.32,57.41,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Keya Brandon,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,69.7,72,,,,,137.5,,,,,65,,,,,142.5,345,10,349.73,344.24,303.47,59.00,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Patrick Robichaux,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,102.3,105,,,,,250,,,,,147.5,,,,,277.5,675,17,411.47,407.19,388.82,69.83,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Carter Fitzgerald,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,90.1,93,,,,,215,,,,,155,,,,,255,625,6,403.90,398.77,382.16,68.93,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+James Rigsby,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,89.4,93,,,,,302.5,,,,,200,,,,,275,777.5,1,504.44,498.05,477.48,86.11,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Megan Kupser,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,55.2,57,,,,,85,,,,,42.5,,,,,95,222.5,3,260.38,264.76,234.27,43.53,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Spencer Grubb,M,SBD,Single-ply,19.5,20-23,19-23,M-Jr,80.9,83,,,,,205,,,,,155,,,,,220,580,18,397.33,393.21,378.68,68.00,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Lauren Brodie,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,60.7,63,,,,,117.5,,,,,57.5,,,,,160,335,4,368.67,370.15,327.00,61.79,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alexis Todaro,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,58.7,63,,,,,102.5,,,,,72.5,,,,,112.5,287.5,6,323.18,326.03,288.16,54.11,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Esteban Perez,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,56.1,59,,,,,135,,,,,95,,,,,175,405,7,361.93,368.05,360.81,61.36,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jonah Noeldner,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,104.1,105,,,,,272.5,,,,,170,,,,,240,682.5,1,413.05,409.08,390.61,70.04,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ian Doxsee,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,73.1,74,,,,,200,,,,,120,,,,,207.5,527.5,20,384.79,382.77,370.26,65.89,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Caitlyn Hester,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,74.9,84,,,,,120,,,,,72.5,,,,,132.5,325,13,316.77,309.22,272.02,53.68,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Michael Lake,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,72,74,,,,,185,,,,,135,,,,,170,490,26,361.06,359.52,347.99,61.82,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jerry Nduji,M,BD,Single-ply,18.5,18-19,19-23,M-T3,117.8,120,,,,,,,,,,182.5,,,,,220,402.5,2,232.60,232.43,222.66,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Amber Blankemeyer,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,108.7,84+,,,,,147.5,,,,,102.5,,,,,150,400,3,331.06,326.06,277.67,57.86,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Luis Munoz III,M,BD,Single-ply,25.5,24-34,24-39,M-O,103.7,105,,,,,,,,,,200,,,,,227.5,427.5,4,259.13,256.59,245.01,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alyssa Gaitan,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,55.8,57,,,,,142.5,,,,,70,,,,,152.5,365,1,424.08,430.67,380.97,70.92,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Laquanda Moffett,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,71.5,72,,,,,172.5,,,,,72.5,,,,,190,435,1,434.75,426.56,375.81,73.46,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jessi Robelot,F,SD,Single-ply,20,20-23,19-23,F-Jr,78.7,84,,,,,155,,,,,,,,,,147.5,302.5,3,287.38,279.37,245.22,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ashley Ackett,F,BD,Single-ply,20.5,20-23,19-23,F-Jr,63,63,,,,,,,,,,77.5,,,,,142.5,220,12,236.61,236.27,208.63,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Aimee Almanza,F,SBD,Single-ply,20.5,20-23,19-23,F-T3,92.7,84+,,,,,182.5,,,,,92.5,,,,,147.5,422.5,2,371.86,360.81,312.70,64.08,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Elena Astello,F,S,Single-ply,20,20-23,19-23,F-Jr,51.4,52,,,,,112.5,,,,,,,,,,,112.5,5,138.24,141.51,125.49,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alex Mansker,M,SBD,Single-ply,22,20-23,19-23,M-Jr,81.3,83,,,,,215,,,,,145,,,,,232.5,592.5,16,404.73,400.46,385.58,69.26,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jonathan Blood,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,58,59,,,,,180,,,,,92.5,,,,,187.5,460,3,399.41,404.87,396.13,67.87,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ilian Rojas,M,SBD,Single-ply,24,24-34,24-39,M-O,91.3,93,,,,,272.5,,,,,200,,,,,262.5,735,1,471.87,465.86,446.21,80.49,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Tyler Borelly,M,SB,Single-ply,20.5,20-23,19-23,M-Jr,155.5,120+,,,,,260,,,,,220,,,,,,480,11,255.66,264.23,248.80,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Erik Golabek,M,S,Single-ply,20.5,20-23,19-23,M-Jr,107.4,120,,,,,262.5,,,,,,,,,,,262.5,22,156.90,155.66,148.68,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Anthony Fodel,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,90.2,93,,,,,192.5,,,,,107.5,,,,,210,510,21,329.40,325.21,311.66,56.21,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Samuel Barrett,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,70.7,74,,,,,192.5,,,,,120,,,,,182.5,495,25,369.28,368.15,356.63,63.22,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Zach Appelbaum,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,61.7,66,,,,,155,,,,,112.5,,,,,205,472.5,9,389.90,392.98,383.16,66.48,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ross Carter,M,SBD,Single-ply,19.5,20-23,19-23,M-Jr,141.4,120+,,,,,282.5,,,,,237.5,,,,,255,775,7,423.54,432.44,410.73,70.81,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Tyler Bergeron,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,145.2,120+,,,,,242.5,,,,,195,,,,,217.5,655,9,355.35,364.08,345.06,59.38,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Paul Kemper,M,SBD,Single-ply,19.5,20-23,19-23,M-Jr,101.2,105,,,,,282.5,,,,,177.5,,,,,245,705,16,431.72,427.05,407.81,73.31,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+James Leron Hutto,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,107.3,120,,,,,297.5,,,,,162.5,,,,,297.5,757.5,10,452.94,449.32,429.18,76.68,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Beau Haydel,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,99.1,105,,,,,272.5,,,,,212.5,,,,,257.5,742.5,8,458.82,453.53,433.24,77.99,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Andre Sigure,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,107.1,120,,,,,320,,,,,207.5,,,,,317.5,845,3,505.62,501.53,479.04,85.60,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Lucas Brandt,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,108.2,120,,,,,272.5,,,,,197.5,,,,,280,750,11,447.00,443.66,423.85,75.64,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ian Gardocki,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,82,83,,,,,195,,,,,145,,,,,212.5,552.5,23,375.56,371.48,357.54,64.26,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Daniel Haskin,M,SBD,Single-ply,24.5,24-34,24-39,M-O,79.4,83,,,,,290,,,,,167.5,,,,,272.5,730,2,505.62,500.76,482.65,86.55,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Isaac Rynowecer,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,81.9,83,,,,,222.5,,,,,152.5,,,,,232.5,607.5,15,413.23,408.76,393.44,70.70,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Wilson Mefford,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,79.9,83,,,,,212.5,,,,,147.5,,,,,210,570,20,393.33,389.45,375.26,67.33,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Scott Conway,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,73.8,74,,,,,220,,,,,120,,,,,225,565,17,409.58,407.19,393.72,70.14,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+James Windham,M,SBD,Single-ply,19,18-19,19-23,M-T3,65.2,66,,,,,,,,,,,,,,,,,DQ,,,,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Darnelle Cuyler,M,SBD,Single-ply,21,20-23,19-23,M-Jr,65,66,,,,,200,,,,,115,,,,,225,540,3,427.96,429.41,417.57,73.13,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Clara Lauterwasser,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,92.9,84+,,,,,175,,,,,87.5,,,,,162.5,425,3,373.72,362.65,314.22,64.41,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alyssa Babineaux,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,109.2,84+,,,,,152.5,,,,,80,,,,,140,372.5,5,307.82,303.34,258.28,53.82,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jennifer Moran,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,90.3,84+,,,,,222.5,,,,,122.5,,,,,180,525,1,467.36,453.01,393.64,80.36,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Logan Himich,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,71.2,72,,,,,160,,,,,65,,,,,165,390,5,390.68,383.52,337.92,65.99,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Dorothy Tran,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,73.1,84,,,,,172.5,,,,,87.5,,,,,167.5,427.5,4,422.12,413.11,363.72,71.42,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Amy Hoybook,F,SBD,Single-ply,22.5,20-23,19-23,F-Jr,70.1,72,,,,,125,,,,,77.5,,,,,137.5,340,11,343.55,337.91,297.86,57.98,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jalynn Moll,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,61.2,63,,,,,157.5,,,,,72.5,,,,,157.5,387.5,1,424.26,425.47,375.83,71.14,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Krystin Krodle,F,BD,Single-ply,19.5,20-23,19-23,F-Jr,59.6,63,,,,,,,,,,92.5,,,,,127.5,220,8,244.91,246.55,217.86,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Daria Capone,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,56.5,57,,,,,122.5,,,,,70,,,,,140,332.5,4,383.15,388.50,343.59,64.09,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Carly Marie Day,F,SBD,Single-ply,22.5,20-23,19-23,F-Jr,54.9,57,,,,,140,,,,,77.5,,,,,132.5,350,3,411.09,418.26,370.14,68.73,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Shelbee Hoffpauir,F,SBD,Single-ply,22.5,20-23,19-23,F-Jr,56.4,57,,,,,117.5,,,,,75,,,,,127.5,320,5,369.18,374.42,331.14,61.75,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Lauren Bridgers,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,51.6,52,,,,,120,,,,,60,,,,,110,290,3,355.39,363.68,322.47,59.38,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Meredith Maggio,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,51.7,52,,,,,77.5,,,,,45,,,,,92.5,215,4,263.12,269.23,238.70,43.96,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Michelle Ryan,F,BD,Single-ply,19.5,20-23,19-23,F-T3,54.9,57,,,,,,,,,,72.5,,,,,100,172.5,4,202.61,206.14,182.42,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Blaise Badway,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,86.3,93,,,,,202.5,,,,,132.5,,,,,240,575,9,379.98,375.34,360.41,64.93,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Amy Michelle Walden,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,71.7,72,,,,,147.5,,,,,75,,,,,145,367.5,8,366.72,359.69,316.87,61.97,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Aaron Steed,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,118.7,120,,,,,317.5,,,,,152.5,,,,,265,735,6,423.66,423.66,405.91,71.33,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Timothy Johnson,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,126.4,120+,,,,,342.5,,,,,230,,,,,312.5,885,2,499.83,503.19,481.40,83.90,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+James Meador IV,M,SBD,Single-ply,22,20-23,19-23,M-Jr,103.5,105,,,,,332.5,,,,,192.5,,,,,277.5,802.5,5,486.83,482.01,460.25,82.57,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Samuel Busche,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,84.8,93,,,,,245,,,,,150,,,,,250,645,4,430.29,425.20,408.61,73.57,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Nicholas Hafner,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,82.5,83,,,,,267.5,,,,,195,,,,,245,707.5,6,479.26,473.96,456.04,81.99,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jonathan Garcia #10,M,SBD,Single-ply,25.5,24-34,24-39,M-Jr,69.2,74,,,,,190,,,,,175,,,,,205,570,16,431.61,430.95,417.85,73.87,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Mykeal Maes,F,SBD,Single-ply,24.5,24-34,24-39,F-O,71.2,72,,,,,190,,,,,120,,,,,162.5,472.5,1,473.32,464.64,409.41,79.95,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jordan Robelot,F,BD,Single-ply,22,20-23,19-23,F-Jr,68.9,72,,,,,,,,,,90,,,,,145,235,17,239.78,236.38,208.44,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jackie Victoriano,F,SBD,Single-ply,23.5,24-34,24-39,F-Jr,61.7,63,,,,,135,,,,,70,,,,,142.5,347.5,6,378.55,379.17,334.90,63.49,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Adam Rubalcaba,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,100.2,105,,,,,285,,,,,215,,,,,262.5,762.5,7,468.93,463.68,442.85,79.66,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Cody McElroy,M,SBD,Single-ply,22,20-23,19-23,M-Jr,82.3,83,,,,,290,,,,,195,,,,,225,710,5,481.61,476.33,458.37,82.40,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Joseph Porzio,M,BD,Single-ply,22,20-23,19-23,M-Jr,81,83,,,,,,,,,,157.5,,,,,245,402.5,29,275.53,272.66,262.57,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Cameron Benner,M,SBD,Single-ply,23,20-23,19-23,M-Jr,72.8,74,,,,,212.5,,,,,155,,,,,235,602.5,10,440.70,438.50,424.24,75.47,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Emily Bearden,F,SBD,Single-ply,22.5,20-23,19-23,F-Jr,70.3,72,,,,,155,,,,,75,,,,,137.5,367.5,7,370.75,364.53,321.30,62.58,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Desiree Estrada,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,52.4,57,,,,,142.5,,,,,67.5,,,,,150,360,2,436.48,446.14,395.35,72.93,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Cameron Ruiz,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,51.9,52,,,,,105,,,,,47.5,,,,,115,267.5,3,326.49,333.97,296.06,54.55,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Horacio Cortez,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,81.9,83,,,,,225,,,,,135,,,,,225,585,17,397.92,393.62,378.87,68.09,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Tyler Esposito,M,SBD,Single-ply,24,24-34,24-39,M-O,91.2,93,,,,,270,,,,,160,,,,,247.5,677.5,2,435.19,429.65,411.54,74.23,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Anthony Rombold,M,S,Single-ply,22,20-23,19-23,M-Jr,70.9,74,,,,,205,,,,,,,,,,,205,30,152.64,152.14,147.36,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Steve Ritucci,M,SBD,Single-ply,34.5,24-34,24-39,M-O,73.6,74,,,,,197.5,,,,,162.5,,,,,217.5,577.5,1,419.39,417.01,403.26,71.82,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ian McPherson,M,SBD,Single-ply,,,,M-T3,73.1,74,,,,,250,,,,,147.5,,,,,230,627.5,2,457.74,455.34,440.45,78.39,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Kristy Bell,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,56.4,57,,,,,132.5,,,,,60,,,,,145,337.5,2,389.37,394.89,349.25,65.13,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Roy Apostle,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,65,66,,,,,182.5,,,,,102.5,,,,,217.5,502.5,5,398.24,399.59,388.57,68.05,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Celina Romera,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,68.3,72,,,,,142.5,,,,,85,,,,,125,352.5,9,361.46,356.76,314.64,60.91,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jeliena Courville,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,55.5,57,,,,,130,,,,,72.5,,,,,130,332.5,4,387.71,393.98,348.56,64.83,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Chris Hughes #2,M,SBD,Single-ply,21,20-23,19-23,M-Jr,105.6,120,,,,,310,,,,,182.5,,,,,275,767.5,6,461.82,457.71,437.10,78.25,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Angela Rodriguez,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,69.4,72,,,,,130,,,,,87.5,,,,,140,357.5,4,363.28,357.78,315.44,61.27,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Mallory Stout,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,73.6,84,,,,,175,,,,,75,,,,,175,425,2,418.12,408.89,359.92,70.78,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Hannah Gilbert,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,61.1,63,,,,,152.5,,,,,90,,,,,147.5,390,1,427.44,428.75,378.74,71.66,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Daniel Dixon,M,SBD,Single-ply,25.5,24-34,24-39,M-Jr,72.4,74,,,,,147.5,,,,,117.5,,,,,195,460,28,337.70,336.14,325.28,57.83,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Rickie Williams,M,SBD,Single-ply,24.5,24-34,24-39,M-O,79.8,83,,,,,295,,,,,155,,,,,287.5,737.5,1,509.29,504.29,485.95,87.18,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Matthew Glenn,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,79.7,83,,,,,185,,,,,140,,,,,250,575,19,397.37,393.49,379.20,68.02,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Adam Tuppen,M,SBD,Single-ply,19.5,20-23,19-23,M-Jr,73.7,74,,,,,195,,,,,130,,,,,195,520,21,377.30,375.13,362.73,64.61,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Bryce Siecko,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,81.6,83,,,,,302.5,,,,,172.5,,,,,270,745,2,507.83,502.40,483.65,86.90,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+George Pena,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,100.1,105,,,,,292.5,,,,,200,,,,,265,757.5,9,466.05,460.82,440.13,79.18,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Curt Allen,M,SBD,Single-ply,21,20-23,19-23,M-Jr,87.9,93,,,,,275,,,,,192.5,,,,,275,742.5,1,485.94,479.87,460.39,83.00,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Zachary Newman,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,51.9,53,,,,,120,,,,,60,,,,,150,330,1,316.65,324.48,319.58,53.33,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Clayton Hensley,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,98.9,105,,,,,240,,,,,182.5,,,,,227.5,650,4,402.02,397.36,379.60,68.34,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Eduardo Estrada,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,58.4,59,,,,,185,,,,,130,,,,,197.5,512.5,1,442.41,448.17,438.32,75.21,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Tristan Ruiz,M,SBD,Single-ply,,,,M-T3,65.7,66,,,,,180,,,,,115,,,,,195,490,7,385.23,386.19,375.35,65.85,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Tyler Martinez #1,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,91.6,93,,,,,240,,,,,170,,,,,245,655,14,419.83,414.49,396.95,71.60,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Fisher Sutterfield,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,81.1,83,,,,,250,,,,,160,,,,,237.5,647.5,2,442.93,438.30,422.06,75.80,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Darion McMahan,M,SBD,Single-ply,19.5,20-23,19-23,M-Jr,72.1,74,,,,,227.5,,,,,160,,,,,230,617.5,4,454.59,452.60,438.06,77.84,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Dallas de la Cruz,M,SBD,Single-ply,,,,M-Jr,65.6,66,,,,,237.5,,,,,140,,,,,237.5,615,2,484.05,485.32,471.73,82.73,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Mauricio Valdez,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,82.4,83,,,,,275,,,,,192.5,,,,,277.5,745,1,505.00,499.44,480.59,86.40,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Robert Garza,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,101.9,105,,,,,272.5,,,,,192.5,,,,,267.5,732.5,13,447.26,442.53,422.57,75.92,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+John Le,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,73.7,74,,,,,227.5,,,,,142.5,,,,,220,590,12,428.09,425.62,411.56,73.31,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Nick Phillips,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,73.1,74,,,,,215,,,,,150,,,,,215,580,13,423.09,420.87,407.11,72.45,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jory Heath,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,72.1,74,,,,,180,,,,,132.5,,,,,205,517.5,23,380.97,379.31,367.12,65.23,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jake Martinez,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,73.6,74,,,,,232.5,,,,,150,,,,,225,607.5,7,441.17,438.67,424.20,75.55,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Benjamin Winder,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,65.1,66,,,,,152.5,,,,,115,,,,,200,467.5,10,370.07,371.28,361.01,63.24,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jonathan Lwowski,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,90.7,93,,,,,227.5,,,,,140,,,,,245,612.5,7,394.51,389.49,373.16,67.31,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Michael Butler,M,SBD,Single-ply,23.5,24-34,24-39,M-Jr,97.8,105,,,,,255,,,,,130,,,,,235,620,18,385.37,380.79,363.86,65.54,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Brent Toups,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,97.8,105,,,,,227.5,,,,,190,,,,,227.5,645,5,400.91,396.14,378.53,68.19,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Trevor Vasser,M,BD,Single-ply,22,20-23,19-23,M-Jr,150.8,120+,,,,,,,,,,265,,,,,285,550,10,295.35,304.08,287.40,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ezekiel Smith,M,SBD,Single-ply,12.5,13-15,,M-Jr,81.6,83,,,,,295,,,,,167.5,,,,,277.5,740,4,504.42,499.03,480.40,86.31,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Chelcie Almeyda,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,60.5,63,,,,,110,,,,,62.5,,,,,140,312.5,8,344.62,346.17,305.83,57.76,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Anthony Adams,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,100.4,105,,,,,257.5,,,,,155,,,,,295,707.5,15,434.73,429.89,410.57,73.84,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Michael Mayhew,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,82.1,83,,,,,250,,,,,165,,,,,252.5,667.5,11,453.41,448.47,431.61,77.58,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Brittany Flores,F,SBD,Single-ply,21,20-23,19-23,F-Jr,57.6,63,,,,,152.5,,,,,82.5,,,,,172.5,407.5,1,463.70,469.00,414.63,77.60,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Thomas Evans #3,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,76.7,83,,,,,250,,,,,155,,,,,270,675,10,477.47,473.65,457.22,81.76,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+William LeBlanc,M,SBD,Single-ply,23,20-23,24-39,M-Jr,103.9,105,,,,,355,,,,,197.5,,,,,342.5,895,1,542.08,536.82,512.58,91.92,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ryan de la Cruz,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,96.6,105,,,,,320,,,,,197.5,,,,,280,797.5,3,498.47,492.41,470.67,84.83,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Eliraz Katz,F,SBD,Single-ply,24.5,24-34,24-39,F-O,62.1,63,,,,,140,,,,,75,,,,,165,380,1,412.31,412.59,364.39,69.17,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jordan Glenn,M,SBD,Single-ply,20,20-23,19-23,M-Jr,90.2,93,,,,,282.5,,,,,165,,,,,315,762.5,5,492.48,486.23,465.96,84.04,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Brad Newhard,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,138.2,120+,,,,,335,,,,,222.5,,,,,240,797.5,6,438.64,446.52,424.82,73.38,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Erika Myers,F,SBD,Single-ply,23.5,24-34,24-39,F-Jr,70,72,,,,,180,,,,,105,,,,,172.5,457.5,2,462.65,455.14,401.20,78.07,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Vahe Missirian,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,103.4,105,,,,,295,,,,,192.5,,,,,272.5,760,8,461.23,456.65,436.03,78.23,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Matt Cassista,M,SBD,Single-ply,22,20-23,19-23,M-Jr,91.6,93,,,,,297.5,,,,,185,,,,,280,762.5,6,488.73,482.51,462.09,83.35,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Isaias Gonzalez,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,58.4,59,,,,,177.5,,,,,122.5,,,,,187.5,487.5,2,420.83,426.31,416.94,71.54,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Derek Ward #1,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,58.4,59,,,,,177.5,,,,,122.5,,,,,185,485,3,418.67,424.12,414.80,71.18,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jonathan Alexander,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,97.5,105,,,,,252.5,,,,,162.5,,,,,250,665,13,413.91,408.96,390.81,70.41,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Matthew Cortez,M,SBD,Single-ply,,,,M-T3,58.7,59,,,,,165,,,,,102.5,,,,,170,437.5,5,376.04,380.75,372.27,63.95,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Matthew Cortez,M,SBD,Single-ply,,,,M-Jr,92.4,93,,,,,270,,,,,152.5,,,,,202.5,625,17,398.90,393.83,377.04,68.01,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Phillip Richard,M,SBD,Single-ply,23.5,24-34,24-39,M-Jr,104.2,105,,,,,335,,,,,250,,,,,260,845,2,511.20,506.30,483.45,86.67,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Troy Aalund,M,SBD,Single-ply,23.5,24-34,24-39,M-Jr,104.3,105,,,,,225,,,,,157.5,,,,,230,612.5,20,370.40,366.87,350.31,62.80,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Rabih Abifaraj,M,SBD,Single-ply,21,20-23,19-23,M-Jr,80.8,83,,,,,215,,,,,95,,,,,115,425,28,291.35,288.35,277.71,49.86,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Conor Sullivan #1,M,BD,Single-ply,20.5,20-23,19-23,M-Jr,81.5,83,,,,,,,,,,187.5,,,,,272.5,460,27,313.78,310.44,298.87,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+John Kaleb Rollins,M,SBD,Single-ply,22,20-23,19-23,M-Jr,73.6,74,,,,,262.5,,,,,170,,,,,252.5,685,3,497.46,494.64,478.32,85.19,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Natalie Domingue,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,70.3,72,,,,,172.5,,,,,90,,,,,170,432.5,3,436.32,429.01,378.13,73.65,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Stephanie Hamilton #2,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,60.4,63,,,,,125,,,,,92.5,,,,,130,347.5,5,383.61,385.44,340.52,64.29,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Lauren Deniger,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,54.4,57,,,,,145,,,,,95,,,,,132.5,372.5,1,440.22,448.35,396.85,73.58,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jesse Burroughs,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,107.2,120,,,,,282.5,,,,,185,,,,,275,742.5,12,444.13,440.56,420.80,75.19,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jay Price,M,SBD,Single-ply,22,20-23,19-23,M-Jr,81.8,83,,,,,267.5,,,,,177.5,,,,,250,695,8,473.08,467.98,450.47,80.95,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Valerie Tucciarone,F,SBD,Single-ply,23.5,24-34,24-39,F-Jr,56.1,57,,,,,,,,,,,,,,,,,DQ,,,,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Nick Skursky,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,82.8,83,,,,,280,,,,,215,,,,,245,740,2,500.24,494.66,475.88,85.57,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Christina Pollick,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,62.3,63,,,,,165,,,,,80,,,,,135,380,3,411.50,411.58,363.48,69.04,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Kimberly Parker,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,71.3,72,,,,,127.5,,,,,75,,,,,130,332.5,12,332.82,326.66,287.82,56.23,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Marcia Darbouze,F,SD,Single-ply,25.5,24-34,24-39,F-O,82.4,84,,,,,162.5,,,,,,,,,,210,372.5,1,345.93,335.45,293.65,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Destiny Kliebert,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,76.9,84,,,,,125,,,,,80,,,,,137.5,342.5,2,329.26,320.64,281.76,55.90,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Michael Picou,M,SBD,Single-ply,21,20-23,19-23,M-Jr,65.3,66,,,,,185,,,,,112.5,,,,,192.5,490,6,386.99,388.15,377.37,66.13,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+David Young,M,SBD,Single-ply,24.5,24-34,24-39,M-O,103.4,105,,,,,330,,,,,232.5,,,,,250,812.5,1,493.09,488.19,466.15,83.64,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ruben Sanchez,M,SD,Single-ply,19.5,20-23,19-23,M-Jr,92.8,93,,,,,230,,,,,,,,,,247.5,477.5,22,304.13,300.27,287.41,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Joseph Sharp,M,SBD,Single-ply,23.5,24-34,24-39,M-Jr,147.3,120+,,,,,305,,,,,250,,,,,260,815,5,440.43,452.09,428.04,73.58,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Michael Davis #1,M,SBD,Single-ply,18,18-19,19-23,M-T3,91.8,93,,,,,287.5,,,,,165,,,,,285,737.5,1,472.20,466.19,446.43,80.53,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Abram Guerra,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,82.8,83,,,,,275,,,,,192.5,,,,,262.5,730,2,493.48,487.97,469.45,84.42,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Claire McKenzie,F,SBD,Single-ply,19.5,20-23,19-23,F-Jr,80.2,84,,,,,157.5,,,,,95,,,,,175,427.5,1,402.31,390.62,342.52,68.51,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Dominique McGaha,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,68.3,72,,,,,165,,,,,82.5,,,,,170,417.5,3,428.12,422.55,372.66,72.14,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Sophia Veiras,F,SBD,Single-ply,23,20-23,19-23,F-Jr,61,63,,,,,142.5,,,,,92.5,,,,,147.5,382.5,2,419.64,421.03,371.93,70.35,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Skyler Briggs,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,62.5,63,,,,,130,,,,,85,,,,,142.5,357.5,2,386.37,386.27,341.12,64.83,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Sarah Cruz-Ortiz,F,SBD,Single-ply,19.5,20-23,19-23,F-Jr,44.8,47,,,,,92.5,,,,,52.5,,,,,120,265,2,360.01,368.62,330.00,60.26,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jacob Weiss,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,92.6,93,,,,,260,,,,,170,,,,,247.5,677.5,2,431.96,426.47,408.25,73.64,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Victoria Vargas,F,SBD,Single-ply,19.5,20-23,19-23,F-T3,50,52,,,,,150,,,,,97.5,,,,,150,397.5,1,498.07,510.64,453.43,83.22,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Taskin Amin,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,56.1,59,,,,,170,,,,,102.5,,,,,195,467.5,4,417.78,424.85,416.49,70.83,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Nathan Westbrook,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,92.8,93,,,,,295,,,,,200,,,,,285,780,4,496.79,490.49,469.49,84.68,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Charles Okpoko,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,64.8,66,,,,,265,,,,,147.5,,,,,242.5,655,1,520.31,522.20,507.88,88.90,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Desiree Trinidad,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,90.2,84+,,,,,210,,,,,115,,,,,157.5,482.5,1,429.74,416.53,361.98,73.88,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Richard Covington,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,113.2,120,,,,,310,,,,,265,,,,,245,820,4,480.55,478.52,457.79,81.12,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+James Guillory,M,SBD,Single-ply,19.5,20-23,19-23,M-T3,91.9,93,,,,,242.5,,,,,220,,,,,200,662.5,3,423.96,418.56,400.80,72.30,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Andrew Reiss,M,SBD,Single-ply,19.5,20-23,19-23,M-Jr,81.7,83,,,,,232.5,,,,,197.5,,,,,207.5,637.5,13,434.24,429.59,413.53,74.30,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Kenny Nguyen,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,64.1,66,,,,,205,,,,,200.5,,,,,200,605.5,3,484.98,487.19,474.08,82.83,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Arthur Bui,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,73.1,74,,,,,225,,,,,152.5,,,,,237.5,615,5,448.62,446.27,431.68,76.82,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Kayli Alphonso,F,SBD,Single-ply,20.5,20-23,19-23,F-Jr,50.6,52,,,,,150,,,,,92.5,,,,,145,387.5,1,481.45,493.30,437.77,80.44,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Allegra Hudson,F,SBD,Single-ply,19.5,20-23,19-23,F-Jr,42.4,43,,,,,127.5,,,,,62.5,,,,,147.5,337.5,1,478.40,486.80,438.62,80.25,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Josue Leon,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,52.5,53,,,,,185,,,,,112.5,,,,,205,502.5,1,476.96,488.20,480.51,80.41,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Tiffany Vu,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,42,43,,,,,102.5,,,,,45,,,,,125,272.5,3,389.15,395.39,356.72,65.31,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Stephen King #2,M,SBD,Single-ply,22,20-23,19-23,M-Jr,143.4,120+,,,,,370,,,,,272.5,,,,,292.5,935,1,508.99,520.65,493.96,85.07,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+James Marcotte,M,SBD,Single-ply,23,20-23,19-23,M-Jr,82.3,83,,,,,250,,,,,212.5,,,,,242.5,705,7,478.22,472.97,455.14,81.82,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Douglas Bowen,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,103.2,105,,,,,342.5,,,,,185,,,,,295,822.5,4,499.56,494.55,472.22,84.74,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ryan Carrillo #1,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,157.5,120+,,,,,310,,,,,300,,,,,270,880,3,467.14,483.53,454.62,78.05,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Richard Pena,M,S,Single-ply,19,18-19,19-23,M-T3,91.2,93,,,,,307.5,,,,,,,,,,,307.5,10,197.52,195.01,186.79,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alex Smith #1,M,SBD,Single-ply,23.5,24-34,24-39,M-Jr,80.5,83,,,,,277.5,,,,,210,,,,,255,742.5,3,510.12,504.93,486.38,87.31,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Alexus Jackson #1,F,SBD,Single-ply,22,20-23,19-23,F-Jr,72.1,84,,,,,195,,,,,117.5,,,,,182.5,495,1,492.45,482.69,425.16,83.25,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Heather Heath,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,80.5,84,,,,,182.5,,,,,147.5,,,,,170,500,1,469.67,455.93,399.70,80.01,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Mario Leos,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,57.7,59,,,,,175,,,,,130,,,,,195,500,2,436.07,442.24,432.83,74.08,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jerry Alaniz,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,64.4,66,,,,,250,,,,,172.5,,,,,230,652.5,2,520.76,522.93,508.74,88.95,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Molly Zunker,F,SBD,Single-ply,22.5,20-23,19-23,F-Jr,46.9,47,,,,,152.5,,,,,75,,,,,150,377.5,1,495.52,508.48,453.35,82.85,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Gregory Johnson,M,SBD,Single-ply,23.5,24-34,24-39,M-Jr,99.6,105,,,,,307.5,,,,,187.5,,,,,360,855,2,527.18,521.18,497.82,89.58,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Dana Wallace,F,SBD,Single-ply,22.5,20-23,19-23,F-Jr,42.2,43,,,,,117.5,,,,,55,,,,,107.5,280,2,398.37,405.07,365.21,66.84,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ashleigh Andrews,F,SBD,Single-ply,20,20-23,19-23,F-Jr,83.3,84,,,,,212.5,,,,,145,,,,,182.5,540,1,498.87,483.58,423.01,85.21,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Stephen Teeters,M,SBD,Single-ply,23,20-23,24-39,M-Jr,82.2,83,,,,,282.5,,,,,170,,,,,297.5,750,1,509.10,503.53,484.58,87.10,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Drake Culbreth,M,SBD,Single-ply,24,24-34,24-39,M-O,90.1,93,,,,,240,,,,,150,,,,,242.5,632.5,3,408.75,403.56,386.75,69.75,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Lindsey Blystone,F,SBD,Single-ply,22.5,20-23,19-23,F-Jr,100.1,84+,,,,,205,,,,,100,,,,,145,450,2,383.86,374.55,321.73,66.60,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Monet Bland,F,SBD,Single-ply,22.5,20-23,19-23,F-Jr,84.4,84+,,,,,207.5,,,,,87.5,,,,,187.5,482.5,2,442.98,429.25,375.14,75.74,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ray Smith,M,SBD,Single-ply,,,,M-T3,92.5,93,,,,,,,,,,,,,,,,,DQ,,,,,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Brandon Graham,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,119.7,120,,,,,,,,,,,,,,,,,DQ,,,,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Christie Civetta,F,SBD,Single-ply,21.5,20-23,19-23,F-Jr,79.7,84,,,,,135,,,,,80,,,,,140,355,2,335.13,325.51,285.53,57.05,Yes,England,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Albert Willingham,M,S,Single-ply,18.5,18-19,19-23,M-T3,140,120+,,,,,330,,,,,,,,,,,330,1,180.85,184.41,175.28,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Brittany Basco,F,SBD,Single-ply,18.5,18-19,19-23,F-T3,47,47,,,,,97.5,,,,,40,,,,,120,257.5,2,337.47,346.31,308.71,56.42,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Aaron Pomerantz,M,SBD,Single-ply,18.5,18-19,19-23,M-T3,73.1,74,,,,,237.5,,,,,240,,,,,222.5,700,1,510.63,507.95,491.34,87.44,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Colby Knapp,M,SBD,Single-ply,19,18-19,19-23,M-T3,65.4,66,,,,,242.5,,,,,137.5,,,,,215,595,4,469.38,470.73,457.61,80.22,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+John Caruso,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,128.9,120+,,,,,330,,,,,250,,,,,282.5,862.5,4,484.19,488.58,466.95,81.20,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jake Baker,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,100.8,105,,,,,277.5,,,,,180,,,,,265,722.5,14,443.19,438.32,418.60,75.27,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Brennan Riche,M,SBD,Single-ply,21,20-23,19-23,M-Jr,92.6,93,,,,,277.5,,,,,207.5,,,,,275,760,7,484.56,478.41,457.96,82.61,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Blake Lehew,M,S,Single-ply,18,18-19,19-23,M-T3,73.1,74,,,,,252.5,,,,,,,,,,,252.5,7,184.19,183.22,177.23,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Hugo Ceja,M,SBD,Single-ply,20.5,20-23,19-23,M-Jr,73.9,74,,,,,197.5,,,,,152.5,,,,,255,605,9,438.19,435.60,421.16,75.04,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Scott Dobbins,M,SBD,Single-ply,21,20-23,19-23,M-Jr,123,120+,,,,,350,,,,,252.5,,,,,305,907.5,2,516.98,518.88,497.05,86.89,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jesse Burttschell,M,BD,Single-ply,21,20-23,19-23,M-Jr,104.8,105,,,,,,,,,,215,,,,,290,505,21,304.80,301.97,288.35,,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Jordan Dunn #1,M,SBD,Single-ply,22.5,20-23,19-23,M-Jr,73.6,74,,,,,310,,,,,210,,,,,260,780,1,566.45,563.23,544.66,97.00,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Hunter Pooser,M,SBD,Single-ply,20,20-23,19-23,M-Jr,118.3,120,,,,,330,,,,,205,,,,,310,845,3,487.62,487.46,467.01,82.12,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Preston Turner #1,M,SBD,Single-ply,21,20-23,19-23,M-Jr,119,120,,,,,385,,,,,330,,,,,320,1035,1,596.07,596.22,571.27,100.35,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Sawyer Yandell,M,SBD,Single-ply,19,18-19,19-23,M-T3,65,66,,,,,235,,,,,125,,,,,232.5,592.5,5,469.57,471.16,458.16,80.23,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Tanner Surratt,M,SBD,Single-ply,19.5,20-23,19-23,M-Jr,72.7,74,,,,,220,,,,,165,,,,,220,605,8,442.93,440.76,426.45,75.85,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ben Etringer,M,SBD,Single-ply,21,20-23,19-23,M-Jr,73.5,74,,,,,275,,,,,182.5,,,,,252.5,710,2,516.07,513.19,496.29,88.38,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Ian Bell,M,SBD,Single-ply,21.5,20-23,19-23,M-Jr,91.6,93,,,,,365,,,,,217.5,,,,,365,947.5,1,607.31,599.58,574.21,103.58,Yes,,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+James Vang,M,SBD,Single-ply,22,20-23,19-23,M-Jr,65.6,66,,,,,262.5,,,,,165,,,,,242.5,670,1,527.34,528.73,513.92,90.13,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
+Joshua Parker #1,M,SBD,Single-ply,17.5,18-19,14-18,M-Jr,93,93,,,,,190,,,,,150,,,,,197.5,537.5,20,341.99,337.65,323.17,58.29,Yes,USA,,USAPL,IPF,2014-04-11,USA,FL,,Collegiate Nationals,Yes
